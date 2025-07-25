@@ -107,7 +107,7 @@ a:focus-visible {
 }
 
 .title {
-  font-family: 'Pacifico', cursive;
+  font-family: 'Inter', system-ui, sans-serif;
   font-size: 24px;
   color: #d72680;
   margin-bottom: 30px;
